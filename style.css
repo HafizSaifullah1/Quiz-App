@@ -1,0 +1,16 @@
+.back{
+    background-color: black;
+    height: 100vh;
+}
+
+.btn{
+    width: 70%;
+}
+
+.btns{
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    width: 30%;
+}
